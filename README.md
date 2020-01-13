@@ -7,6 +7,7 @@ What's in store
 - Smoothing and seasonality decomposition
 - Dickey-Fuller Test (statistical test for checking stationarity)
 - Forecasting
+- LSTM Nueral Network
 
 Libraries used
 - Numpy
