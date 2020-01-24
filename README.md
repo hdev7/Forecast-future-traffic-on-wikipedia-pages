@@ -1,5 +1,5 @@
 # Forecast-future-traffic-on-wikipedia-pages
-Built a forecasting model using time series analysis model - ARIMA. Described everything in detail from statistical point of view. It is beginner friendly notebook. Happy learning
+Built a forecasting model using time series analysis model - ARIMA. My LSTM Recurrent Nueral Network model improved the forecasting accuracy by 3\%
 
 
 What's in store
